@@ -1,0 +1,7973 @@
+# csv_nslookup.py results
+# source CSV: input.csv
+# column: CommonName
+# date: 2025-09-28T19:46:49.475056Z
+# total hosts: 836
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.cyber-ed.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.cyber-ed.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.cyber-ed.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- bitwarden.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find bitwarden.cyber-ed.ru: Non-existent domain
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.cyber-ed.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.cyber-ed.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.cyber-ed.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- bitwarden.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find bitwarden.cyber-ed.ru: Non-existent domain
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    cyber-ed.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    cyber-ed.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    cyber-ed.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    cyber-ed.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- bitpasrep.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find bitpasrep.cyber-ed.ru: Non-existent domain
+
+--- bitpasrep.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find bitpasrep.cyber-ed.ru: Non-existent domain
+
+--- ceeperpas.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find ceeperpas.cyber-ed.ru: Non-existent domain
+
+--- ceeperpas.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find ceeperpas.cyber-ed.ru: Non-existent domain
+
+--- newlms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find newlms.cyber-ed.ru: Non-existent domain
+
+--- newlms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find newlms.cyber-ed.ru: Non-existent domain
+
+--- newlms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find newlms.cyber-ed.ru: Non-existent domain
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- modlms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find modlms.cyber-ed.ru: Non-existent domain
+
+--- modlms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find modlms.cyber-ed.ru: Non-existent domain
+
+--- modlms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find modlms.cyber-ed.ru: Non-existent domain
+
+--- modlms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find modlms.cyber-ed.ru: Non-existent domain
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.cyber-ed.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.cyber-ed.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- infctf.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find infctf.cyber-ed.ru: Non-existent domain
+
+--- cyberclass.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find cyberclass.cyber-ed.ru: Non-existent domain
+
+--- infctf.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find infctf.cyber-ed.ru: Non-existent domain
+
+--- bugbounty-intensive.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find bugbounty-intensive.cyber-ed.ru: Non-existent domain
+
+--- cyberclass.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find cyberclass.cyber-ed.ru: Non-existent domain
+
+--- bugbounty-intensive.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+STDERR:
+*** UnKnown can't find bugbounty-intensive.cyber-ed.ru: Non-existent domain
+
+--- bugbounty-intensive.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+STDERR:
+*** UnKnown can't find bugbounty-intensive.cyber-ed.ru: Non-existent domain
+
+--- bugbounty-intensive.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+STDERR:
+*** UnKnown can't find bugbounty-intensive.cyber-ed.ru: Non-existent domain
+
+--- newlms.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- gitlab.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- gitlab.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- step.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- step.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- task.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- task.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- gitlab.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- gitlab.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- one-task-of-the-month.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+STDERR:
+*** UnKnown can't find one-task-of-the-month.cyber-ed.ru: Non-existent domain
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- one-task-of-the-month.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+STDERR:
+*** UnKnown can't find one-task-of-the-month.cyber-ed.ru: Non-existent domain
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- old.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find old.cyber-ed.ru: Non-existent domain
+
+--- old.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find old.cyber-ed.ru: Non-existent domain
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- old.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find old.cyber-ed.ru: Non-existent domain
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- old.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find old.cyber-ed.ru: Non-existent domain
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- old.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find old.cyber-ed.ru: Non-existent domain
+
+--- old.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find old.cyber-ed.ru: Non-existent domain
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- old.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find old.cyber-ed.ru: Non-existent domain
+
+--- old.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find old.cyber-ed.ru: Non-existent domain
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- old.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find old.cyber-ed.ru: Non-existent domain
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- old.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find old.cyber-ed.ru: Non-existent domain
+
+--- old.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find old.cyber-ed.ru: Non-existent domain
+
+--- old.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find old.cyber-ed.ru: Non-existent domain
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- old.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find old.cyber-ed.ru: Non-existent domain
+
+--- old.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find old.cyber-ed.ru: Non-existent domain
+
+--- matterm.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    matterm.cyber-ed.ru
+Address:  158.160.126.88
+STDERR:
+Non-authoritative answer:
+
+--- matterm.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    matterm.cyber-ed.ru
+Address:  158.160.126.88
+STDERR:
+Non-authoritative answer:
+
+--- briefs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    briefs.cyber-ed.ru
+Address:  217.25.89.213
+STDERR:
+Non-authoritative answer:
+
+--- briefs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    briefs.cyber-ed.ru
+Address:  217.25.89.213
+STDERR:
+Non-authoritative answer:
+
+--- connect.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- connect.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lmstest.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lmstest.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- event.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- event.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- old.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- old.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- event.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- event.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- old.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- old.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- one-task.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- one-task.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lmstest.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lmstest.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- matterm.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    matterm.CYBER-ED.ru
+Address:  158.160.126.88
+STDERR:
+Non-authoritative answer:
+
+--- old.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+STDERR:
+*** UnKnown can't find old.cyber-ed.ru: Non-existent domain
+
+--- old.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+STDERR:
+*** UnKnown can't find old.cyber-ed.ru: Non-existent domain
+
+--- matterm.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    matterm.CYBER-ED.ru
+Address:  158.160.126.88
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.cyber-ed.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.cyber-ed.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- matterm.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    matterm.CYBER-ED.ru
+Address:  158.160.126.88
+STDERR:
+Non-authoritative answer:
+
+--- matterm.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    matterm.CYBER-ED.ru
+Address:  158.160.126.88
+STDERR:
+Non-authoritative answer:
+
+--- learn.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    learn.cyber-ed.ru
+Address:  83.147.247.185
+STDERR:
+Non-authoritative answer:
+
+--- learn.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    learn.cyber-ed.ru
+Address:  83.147.247.185
+STDERR:
+Non-authoritative answer:
+
+--- wiki.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find wiki.cyber-ed.ru: Non-existent domain
+
+--- wiki.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find wiki.cyber-ed.ru: Non-existent domain
+
+--- wiki.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find wiki.cyber-ed.ru: Non-existent domain
+
+--- wiki.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find wiki.cyber-ed.ru: Non-existent domain
+
+--- wiki.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find wiki.cyber-ed.ru: Non-existent domain
+
+--- wiki.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find wiki.cyber-ed.ru: Non-existent domain
+
+--- wiki.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find wiki.cyber-ed.ru: Non-existent domain
+
+--- wiki.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find wiki.cyber-ed.ru: Non-existent domain
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- learn.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    learn.CYBER-ED.ru
+Address:  83.147.247.185
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- learn.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    learn.CYBER-ED.ru
+Address:  83.147.247.185
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- monitoring.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    monitoring.cyber-ed.ru
+Address:  212.113.122.160
+STDERR:
+Non-authoritative answer:
+
+--- monitoring.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    monitoring.cyber-ed.ru
+Address:  212.113.122.160
+STDERR:
+Non-authoritative answer:
+
+--- qr-admin.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-admin.cyber-ed.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-admin.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-admin.cyber-ed.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.cyber-ed.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.cyber-ed.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- qr-front.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-front.cyber-ed.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-front.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-front.cyber-ed.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.cyber-ed.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.cyber-ed.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- qr-api.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-api.cyber-ed.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-api.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-api.cyber-ed.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.cyber-ed.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.cyber-ed.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.cyber-ed.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.cyber-ed.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- learn.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    learn.CYBER-ED.ru
+Address:  83.147.247.185
+STDERR:
+Non-authoritative answer:
+
+--- learn.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    learn.CYBER-ED.ru
+Address:  83.147.247.185
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- wiki.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- wiki.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- matterm.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- matterm.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- blue.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- gitlab.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- gitlab.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- test.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- test.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- monitoring.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- monitoring.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- event.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- event.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- blue.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- devsec.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- devsec.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- test.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- blue.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- test.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms-test.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms-test.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- red.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    infrastructure.cyber-ed.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    web.cyber-ed.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    infrastructure.cyber-ed.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    web.cyber-ed.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    itpentest.cyber-ed.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    itpentest.cyber-ed.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.cyber-ed.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- qr-admin.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-admin.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-api.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-api.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-api.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-api.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-admin.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-admin.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-front.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-front.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-front.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-front.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- matterm.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    matterm.CYBER-ED.ru
+Address:  158.160.126.88
+STDERR:
+Non-authoritative answer:
+
+--- matterm.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    matterm.CYBER-ED.ru
+Address:  158.160.126.88
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- wiki.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find wiki.cyber-ed.ru: Non-existent domain
+
+--- wiki.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find wiki.cyber-ed.ru: Non-existent domain
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- learn.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    learn.CYBER-ED.ru
+Address:  83.147.247.185
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- learn.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    learn.CYBER-ED.ru
+Address:  83.147.247.185
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- monitoring.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    monitoring.CYBER-ED.ru
+Address:  212.113.122.160
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- monitoring.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    monitoring.CYBER-ED.ru
+Address:  212.113.122.160
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- dashboard.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find dashboard.dev.cyber-ed.ru: Non-existent domain
+
+--- dashboard.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find dashboard.dev.cyber-ed.ru: Non-existent domain
+
+--- dashboard.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find dashboard.dev.cyber-ed.ru: Non-existent domain
+
+--- dashboard.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find dashboard.dev.cyber-ed.ru: Non-existent domain
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- dashboard.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find dashboard.dev.cyber-ed.ru: Non-existent domain
+
+--- dashboard.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find dashboard.cyber-ed.ru: Non-existent domain
+
+--- dashboard.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find dashboard.cyber-ed.ru: Non-existent domain
+
+--- dashboard.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+STDERR:
+*** UnKnown can't find dashboard.cyber-ed.ru: Non-existent domain
+
+--- dashboard.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+STDERR:
+*** UnKnown can't find dashboard.dev.cyber-ed.ru: Non-existent domain
+
+--- lms-test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    lms-test.cyber-ed.ru
+Address:  217.25.93.155
+STDERR:
+Non-authoritative answer:
+
+--- dashboard.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+STDERR:
+*** Request to UnKnown timed-out
+
+--- web.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- web.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms-test.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- infrastructure.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- devsec.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- devsec.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- red.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- infrastructure.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- red.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- specialist.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- specialist.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- test.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- test.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- blue.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- blue.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- qr-admin.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- qr-admin.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- qr-api.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- qr-api.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- qr-front.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- qr-front.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    qr-front.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- matterm.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    matterm.CYBER-ED.ru
+Address:  158.160.126.88
+STDERR:
+Non-authoritative answer:
+
+--- matterm.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    matterm.CYBER-ED.ru
+Address:  158.160.126.88
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- wiki.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find wiki.cyber-ed.ru: Non-existent domain
+
+--- wiki.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find wiki.cyber-ed.ru: Non-existent domain
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- learn.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    learn.CYBER-ED.ru
+Address:  83.147.247.185
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- learn.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    learn.CYBER-ED.ru
+Address:  83.147.247.185
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- monitoring.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    monitoring.CYBER-ED.ru
+Address:  212.113.122.160
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- monitoring.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    monitoring.CYBER-ED.ru
+Address:  212.113.122.160
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- lms-test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms-test.CYBER-ED.ru
+Address:  217.25.93.155
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- lms-test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms-test.CYBER-ED.ru
+Address:  217.25.93.155
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- lms-test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms-test.CYBER-ED.ru
+Address:  217.25.93.155
+STDERR:
+Non-authoritative answer:
+
+--- lms-test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms-test.CYBER-ED.ru
+Address:  217.25.93.155
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- qr-admin.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-admin.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- qr-api.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-api.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- qr-front.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-front.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-front.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-front.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-admin.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-admin.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-api.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-api.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- matterm.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    matterm.CYBER-ED.ru
+Address:  158.160.126.88
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- wiki.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- matterm.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- wiki.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- md.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- md.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- md.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- md.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- md.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- md.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- md.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- learn.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- md.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- learn.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- learn.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- learn.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- test.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- test.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- infrastructure.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- infrastructure.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- gitlab.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- monitoring.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    monitoring.CYBER-ED.ru
+Address:  212.113.122.160
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- lms-test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    lms-test.CYBER-ED.ru
+Address:  217.25.93.155
+STDERR:
+Non-authoritative answer:
+
+--- lms-test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    lms-test.CYBER-ED.ru
+Address:  217.25.93.155
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- monitoring.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    monitoring.CYBER-ED.ru
+Address:  212.113.122.160
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- uploader.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    uploader.cyber-ed.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- uploader.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    uploader.cyber-ed.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- qr-admin.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-admin.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- qr-api.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-api.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-front.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-front.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- qr-front.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-front.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-admin.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-admin.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-api.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-api.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- bw.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    bw.cyber-ed.ru
+Address:  89.169.136.195
+STDERR:
+Non-authoritative answer:
+
+--- bw.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    bw.cyber-ed.ru
+Address:  89.169.136.195
+STDERR:
+Non-authoritative answer:
+
+--- bw.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    bw.cyber-ed.ru
+Address:  89.169.136.195
+STDERR:
+Non-authoritative answer:
+
+--- bw.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    bw.cyber-ed.ru
+Address:  89.169.136.195
+STDERR:
+Non-authoritative answer:
+
+--- bw.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    bw.cyber-ed.ru
+Address:  89.169.136.195
+STDERR:
+Non-authoritative answer:
+
+--- bw.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    bw.cyber-ed.ru
+Address:  89.169.136.195
+STDERR:
+Non-authoritative answer:
+
+--- alternative.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find alternative.cyber-ed.ru: Non-existent domain
+
+--- alternative.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find alternative.cyber-ed.ru: Non-existent domain
+
+--- alternative.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find alternative.cyber-ed.ru: Non-existent domain
+
+--- alternative.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find alternative.cyber-ed.ru: Non-existent domain
+
+--- alternative.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find alternative.cyber-ed.ru: Non-existent domain
+
+--- alternative.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+STDERR:
+*** UnKnown can't find alternative.cyber-ed.ru: Non-existent domain
+
+--- matterm.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    matterm.CYBER-ED.ru
+Address:  158.160.126.88
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- matterm.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    matterm.CYBER-ED.ru
+Address:  158.160.126.88
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- bw.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    bw.CYBER-ED.ru
+Address:  89.169.136.195
+STDERR:
+Non-authoritative answer:
+
+--- bw.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    bw.CYBER-ED.ru
+Address:  89.169.136.195
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- bw.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    bw.CYBER-ED.ru
+Address:  89.169.136.195
+STDERR:
+Non-authoritative answer:
+
+--- learn.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    learn.CYBER-ED.ru
+Address:  83.147.247.185
+STDERR:
+Non-authoritative answer:
+
+--- bw.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    bw.CYBER-ED.ru
+Address:  89.169.136.195
+STDERR:
+Non-authoritative answer:
+
+--- learn.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    learn.CYBER-ED.ru
+Address:  83.147.247.185
+STDERR:
+Non-authoritative answer:
+
+--- bw.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    bw.CYBER-ED.ru
+Address:  89.169.136.195
+STDERR:
+Non-authoritative answer:
+
+--- bw.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    bw.CYBER-ED.ru
+Address:  89.169.136.195
+STDERR:
+Non-authoritative answer:
+
+--- learn.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    learn.CYBER-ED.ru
+Address:  83.147.247.185
+STDERR:
+Non-authoritative answer:
+
+--- learn.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    learn.CYBER-ED.ru
+Address:  83.147.247.185
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- openday.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    openday.cyber-ed.ru
+Address:  176.57.64.26
+STDERR:
+Non-authoritative answer:
+
+--- openday.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    openday.cyber-ed.ru
+Address:  176.57.64.26
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- md.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    md.cyber-ed.ru
+Address:  84.201.134.240
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- md.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    md.cyber-ed.ru
+Address:  84.201.134.240
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- openday.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    openday.CYBER-ED.ru
+Address:  176.57.64.26
+STDERR:
+Non-authoritative answer:
+
+--- openday.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    openday.CYBER-ED.ru
+Address:  176.57.64.26
+STDERR:
+Non-authoritative answer:
+
+--- vault.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    vault.cyber-ed.ru
+Address:  89.169.136.195
+STDERR:
+Non-authoritative answer:
+
+--- vault.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    vault.cyber-ed.ru
+Address:  89.169.136.195
+STDERR:
+Non-authoritative answer:
+
+--- vault.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    vault.cyber-ed.ru
+Address:  89.169.136.195
+STDERR:
+Non-authoritative answer:
+
+--- vault.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    vault.cyber-ed.ru
+Address:  89.169.136.195
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- monitoring.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    monitoring.CYBER-ED.ru
+Address:  212.113.122.160
+STDERR:
+Non-authoritative answer:
+
+--- monitoring.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    monitoring.CYBER-ED.ru
+Address:  212.113.122.160
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- test.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- red.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- specialist.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- specialist.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- web.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- web.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- event.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- event.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms-test.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms-test.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- blue.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- openday.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- blue.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- openday.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- one-task.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- one-task.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- qr-admin.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- qr-api.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    qr-api.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-admin.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    qr-admin.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-api.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    qr-api.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- qr-front.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    qr-front.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-front.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    qr-front.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- openday.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    openday.CYBER-ED.ru
+Address:  176.57.64.26
+STDERR:
+Non-authoritative answer:
+
+--- openday.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    openday.CYBER-ED.ru
+Address:  176.57.64.26
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- openday.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    openday.CYBER-ED.ru
+Address:  176.57.64.26
+STDERR:
+Non-authoritative answer:
+
+--- openday.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    openday.CYBER-ED.ru
+Address:  176.57.64.26
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- md.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    md.CYBER-ED.ru
+Address:  84.201.134.240
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- md.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    md.CYBER-ED.ru
+Address:  84.201.134.240
+STDERR:
+Non-authoritative answer:
+
+--- matterm.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    matterm.CYBER-ED.ru
+Address:  158.160.126.88
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- matterm.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    matterm.CYBER-ED.ru
+Address:  158.160.126.88
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- learn.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    learn.CYBER-ED.ru
+Address:  83.147.247.185
+STDERR:
+Non-authoritative answer:
+
+--- learn.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    learn.CYBER-ED.ru
+Address:  83.147.247.185
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- openday.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    openday.CYBER-ED.ru
+Address:  176.57.64.26
+STDERR:
+Non-authoritative answer:
+
+--- monitoring.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    monitoring.CYBER-ED.ru
+Address:  212.113.122.160
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- openday.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    openday.CYBER-ED.ru
+Address:  176.57.64.26
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- monitoring.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    monitoring.CYBER-ED.ru
+Address:  212.113.122.160
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- lms-test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms-test.CYBER-ED.ru
+Address:  217.25.93.155
+STDERR:
+Non-authoritative answer:
+
+--- lms-test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms-test.CYBER-ED.ru
+Address:  217.25.93.155
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- qr-front.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-front.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- one-task.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    one-task.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- qr-api.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-api.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-front.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-front.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-admin.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-admin.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- qr-admin.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-admin.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- lms.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    lms.CYBER-ED.ru
+Address:  178.253.40.71
+STDERR:
+Non-authoritative answer:
+
+--- cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    CYBER-ED.ru
+Address:  178.154.245.151
+STDERR:
+Non-authoritative answer:
+
+--- qr-api.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    qr-api.CYBER-ED.ru
+Address:  77.232.138.186
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- infrastructure.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    infrastructure.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- openday.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    openday.CYBER-ED.ru
+Address:  176.57.64.26
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- openday.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    openday.CYBER-ED.ru
+Address:  176.57.64.26
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- red.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    red.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- labs.dev.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.dev.CYBER-ED.ru
+Address:  45.95.234.104
+STDERR:
+Non-authoritative answer:
+
+--- openday.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    openday.CYBER-ED.ru
+Address:  176.57.64.26
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- specialist.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    specialist.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- labs.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    labs.CYBER-ED.ru
+Address:  82.97.253.70
+STDERR:
+Non-authoritative answer:
+
+--- blue.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    blue.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- openday.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    openday.CYBER-ED.ru
+Address:  176.57.64.26
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- web.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    web.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- matterm.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    matterm.CYBER-ED.ru
+Address:  158.160.126.88
+STDERR:
+Non-authoritative answer:
+
+--- matterm.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    matterm.CYBER-ED.ru
+Address:  158.160.126.88
+STDERR:
+Non-authoritative answer:
+
+--- md.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    md.CYBER-ED.ru
+Address:  84.201.134.240
+STDERR:
+Non-authoritative answer:
+
+--- event.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    event.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- md.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    md.CYBER-ED.ru
+Address:  84.201.134.240
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- itpentest.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    itpentest.CYBER-ED.ru
+Address:  176.57.64.212
+STDERR:
+Non-authoritative answer:
+
+--- monitoring.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    monitoring.CYBER-ED.ru
+Address:  212.113.122.160
+STDERR:
+Non-authoritative answer:
+
+--- aw.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    aw.cyber-ed.ru
+Address:  84.201.134.36
+STDERR:
+Non-authoritative answer:
+
+--- aw.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    aw.cyber-ed.ru
+Address:  84.201.134.36
+STDERR:
+Non-authoritative answer:
+
+--- monitoring.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+Name:    monitoring.CYBER-ED.ru
+Address:  212.113.122.160
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    devsec.CYBER-ED.ru
+Address:  176.57.64.213
+STDERR:
+Non-authoritative answer:
+
+--- openday.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    openday.CYBER-ED.ru
+Address:  176.57.64.26
+STDERR:
+Non-authoritative answer:
+
+--- test.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    test.CYBER-ED.ru
+Address:  185.215.4.43
+STDERR:
+Non-authoritative answer:
+
+--- learn.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    learn.CYBER-ED.ru
+Address:  83.147.247.185
+STDERR:
+Non-authoritative answer:
+
+--- gitlab.cyber-ed.ru ---
+RETURN_CODE=0
+STDOUT:
+Server:  UnKnown
+Address:  192.168.1.1
+
+DNS request timed out.
+    timeout was 2 seconds.
+Name:    gitlab.CYBER-ED.ru
+Address:  51.250.66.168
+STDERR:
+Non-authoritative answer:
+
+--- devsec.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- openday.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- learn.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- test.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- gitlab.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- devsec.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- devsec.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms-test.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- devsec.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- lms-test.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- devsec.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- one-task.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- specialist.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- one-task.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- specialist.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- qr-admin.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- qr-admin.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- qr-api.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- qr-api.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- qr-front.cyber-ed.ru ---
+ERROR: timeout after 6s
+
+--- qr-front.cyber-ed.ru ---
+ERROR: timeout after 6s
+
