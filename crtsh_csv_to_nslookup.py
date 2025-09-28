@@ -19,7 +19,7 @@ from datetime import datetime
 
 # ---------- CONFIG ----------
 QUERY_CMD = "nslookup"   # or "dig"
-NSLOOKUP_TYPE = ""       # e.g., "-type=TXT" for nslookup; leave "" for default
+NSLOOKUP_TYPE = "-type=TXT"       # e.g., "-type=TXT" for nslookup; leave "" for default
 DIG_TYPE = "TXT"         # if using dig, we will use: dig +short TXT host
 TIMEOUT = 6              # seconds per query
 MAX_WORKERS = 12         # parallel threads
@@ -106,3 +106,4 @@ if __name__ == "__main__":
         print("Usage: python3 csv_nslookup.py input.csv ColumnName output.txt")
         sys.exit(1)
     main(sys.argv[1], sys.argv[2], sys.argv[3])
+
