@@ -1,2 +1,4 @@
 # r101
-some shitcode for r101 course by cybered
+scripts for r101 course by cybered
+
+mostly on python vs bash
